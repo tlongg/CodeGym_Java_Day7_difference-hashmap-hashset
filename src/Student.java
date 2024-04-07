@@ -3,8 +3,6 @@ public class Student {
     private int age;
     private String address;
 
-    public Student() {
-    }
 
     public Student(String name, int age, String address) {
         this.name = name;
